@@ -9,12 +9,13 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Eloísa M. de Lira
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "
+Hi, I'm Eloísa. Geologist by training, Geophysics by chance, and Data Scientist in training. Trying to unravel the Geosciences. Know my steps."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,12 +40,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "eloisalira@gmail.com"
+ #facebook: deanattali
+  github: EloisaLira
+# twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/eloisamlira/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
