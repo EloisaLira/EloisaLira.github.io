@@ -6,7 +6,7 @@ subtitle: A Geologist on an insane journey!!!!
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/avatar.jpg
 share-img: /assets/img/path.jpg
-
+#gh-repo: aboutme.md
 ---
 
 
