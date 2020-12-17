@@ -1,4 +1,3 @@
-```python
 ---
 layout: post
 title: Controle de Outliers
@@ -8,6 +7,9 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+
+```python
+
 ```
 
 Gostaria de compartilhar uma prática simples mas, de grande valia na rotina de caracterização de reservatórios óleo e gás.
