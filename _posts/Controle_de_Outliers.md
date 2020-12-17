@@ -2,9 +2,9 @@
 layout: post
 title: Controle de Outliers
 subtitle: Visualização de dados espúrios na prática
-gh-repo: https://github.com/EloisaLira/eloisalira.github.io/tree/master/_posts
+gh-repo: EloisaLira/eloisalira.github.io/tree/master/_posts
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [portifolio]
 comments: true
 ---
 
