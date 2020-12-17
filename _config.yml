@@ -14,8 +14,9 @@ author: Eloísa M. de Lira
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "
-Hi, I'm Eloísa. Geologist by training, Geophysics by chance, and Data Scientist in training. Trying to unravel the Geosciences. Know my steps."
+  About Me: "https://github.com/EloisaLira/eloisalira.github.io/blob/master/aboutme.md"
+  Portifolio: "https://github.com/EloisaLira/eloisalira.github.io/tree/master/_posts"
+  Studies:  "https://github.com/EloisaLira/eloisalira.github.io/tree/master/_studies"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
