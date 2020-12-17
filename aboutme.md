@@ -3,9 +3,6 @@
 layout: page
 title: About me
 subtitle: A Geologist on an insane journey!!!!
----
----
-
 cover-img: /assets/img/path.jpg
 thumbnail-img: https://github.com/EloisaLira/eloisalira.github.io/blob/master/assets/img/avatar.jpg
 share-img: /assets/img/path.jpg
