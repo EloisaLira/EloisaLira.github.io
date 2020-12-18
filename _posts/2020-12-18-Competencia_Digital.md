@@ -17,14 +17,14 @@ Posso te dizer que se resume a competências e conhecimento de ferramentas que t
 
 Onde essas soluções podem ser aplicadas? Fiz uma pesquisa e seguem algumas áreas que se beneficiam e que que necessitam muito dessas competências:
 
-1. Ciber Segurança compreende a proteção de servidores, dispositivos móveis, redes etc perante ataques maliciosos.
-2. Marketing digital promoção de uma marca ou estratégia de promoção na internet.
-3. Edição Digital de Imagem e Vídeo
-4. Análise de Dados e gerenciamento deles com base em ferramentas específicas.
-5. Atendimento ao Cliente
-6. Redes sociais
-7. Tecnologias em nuvem e comercio digital
-8. Tornar conteúdos visíveis em sites de buscador de conteúdos oferecendo maior competitividade.
+1. *Ciber Segurança* compreende a proteção de servidores, dispositivos móveis, redes etc perante ataques maliciosos.
+2. *Marketing digital* promoção de uma marca ou estratégia de promoção na internet.
+3. *Edição Digital* de Imagem e Vídeo
+4. *Análise de Dados* e gerenciamento deles com base em ferramentas específicas.
+5. *Atendimento ao Cliente*
+6. *Redes sociais*
+7. *Tecnologias em nuvem* e comercio digital
+8. *Tornar conteúdos visíveis* em sites de buscador de conteúdos oferecendo maior competitividade.
 
 A competência digital tem a ver com seus conhecimentos sobre tecnologias, das suas competências e atitudes perante elas. A nível de curiosidade há um inquérito sobre a [inclusão e as competências digitais na UE de 2014](http://ec.europa.eu/digital-agenda/news-redirect/16547), nele vemos que 47% da população europeia possuem competências digitais insuficientes. Isto inclusive traz desdobramentos para o mercado de trabalho na União Europeia, figura em anexo.
 
@@ -52,6 +52,8 @@ Se você ficou curioso, indico consultar o [Índice de Digitalidade da Economia 
 
 
 Fontes :
+
+Image Gif [Coding Dojo](https://www.codedojo.com.br/)
 
 [https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm](https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm)
 
