@@ -4,7 +4,7 @@ title: Controle de Outliers
 subtitle: Visualização de dados espúrios na prática
 thumbnail-img: /assets/img/boxplot_nphi_com_outliers.png
 gh-badge: [star, fork, follow]
-tags: [portifolio]
+tags: [portifolio, outliers, visualização, dados, seaborn, python]
 comments: true
 ---
 
