@@ -15,8 +15,8 @@ author: Eloísa M. de Lira
 
 navbar-links:
   About Me: "aboutme"
-  Portifolio: "https://github.com/EloisaLira/eloisalira.github.io/tree/master/_posts"
-  Studies:  "https://github.com/EloisaLira/eloisalira.github.io/tree/master/_studies"
+  Portifolio: "/_posts"
+  Studies:  "/_studies"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
