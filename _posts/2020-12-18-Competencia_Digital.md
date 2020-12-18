@@ -26,7 +26,7 @@ Onde essas soluções podem ser aplicadas? Fiz uma pesquisa e seguem algumas ár
 7. Tecnologias em nuvem e comercio digital
 8. Tornar conteúdos visíveis em sites de buscador de conteúdos oferecendo maior competitividade.
 
-A competência digital tem a ver com seus conhecimentos sobre tecnologias, das suas competências e atitudes perante elas. A nível de curiosidade há um inquérito sobre a (inclusão e as competências digitais na UE de 2014) (http://ec.europa.eu/digital-agenda/news-redirect/16547), nele vemos que 47% da população europeia possuem competências digitais insuficientes. Isto inclusive traz desdobramentos para o mercado de trabalho na União Europeia, figura em anexo.
+A competência digital tem a ver com seus conhecimentos sobre tecnologias, das suas competências e atitudes perante elas. A nível de curiosidade há um inquérito sobre a [inclusão e as competências digitais na UE de 2014] (http://ec.europa.eu/digital-agenda/news-redirect/16547), nele vemos que 47% da população europeia possuem competências digitais insuficientes. Isto inclusive traz desdobramentos para o mercado de trabalho na União Europeia, figura em anexo.
 
 Então, vamos listar aqui as competências de forma bem resumida:
 
@@ -53,10 +53,10 @@ Se você ficou curioso, indico consultar o [Índice de Digitalidade da Economia 
 
 Fontes :
 
-![https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm] (https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm)
+[https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm] (https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm)
 
-![https://www.iberdrola.com/inovacao/competencias-digitais](https://www.iberdrola.com/inovacao/competencias-digitais)
+[https://www.iberdrola.com/inovacao/competencias-digitais](https://www.iberdrola.com/inovacao/competencias-digitais)
 
-![https://blog.runrun.it/competencias-digitais/](https://blog.runrun.it/competencias-digitais/)
+[https://blog.runrun.it/competencias-digitais/](https://blog.runrun.it/competencias-digitais/)
 
-![https://www.kaspersky.com.br/resource-center/definitions/what-is-cyber-security](https://www.kaspersky.com.br/resource-center/definitions/what-is-cyber-security)
+[https://www.kaspersky.com.br/resource-center/definitions/what-is-cyber-security](https://www.kaspersky.com.br/resource-center/definitions/what-is-cyber-security)
