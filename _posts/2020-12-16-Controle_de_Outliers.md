@@ -700,8 +700,8 @@ all_wells.describe()
 
 
 ### Missing values
-Very common in LAS files because depth of interest may vary for specific measurements. Printed values of -99999.0 in LAS files means null value. Missing values are not common in the middle part of the dataset. Usually, it happens in the head or tail of a file. isna function returns True if the location has a null value, otherwise, it will be False. We may add up these boolean values using sum() function as below:
 
+Em dados do tipo LAS file a ausência de dado (medição) é representado pelo valor -99999.0 é o nosso null value. Onde houve a ausência desses dados a função isna retornará com o boleano True na posição faltante ou False caso contrário. E para contabilizar esses valores faltante será feita uma somatória com a função **sum** descrito abaixo:
 
 ```python
 #Counting all Nan values(percentage) in each well log
@@ -744,9 +744,7 @@ all_wells_D=all_wells.drop(['CALI','RDEP','RMED','RMIC','SP','DRHO','PEF','NEUT'
 
 ### Calculando o número de Nan values em cada perfil
 
-Let’s suppose that we want to preserve GR, DT, and RHOB as important logs in the data set. So, to get rid of missing values we can drop rows that one of those logs is missed in that row.
-
-This line of code will drop all rows that one (or more) of the subset logs (‘GR’, ‘DT’,...) has a null value.
+O proximo passo será a remoção das linhas cujo dado esteja faltante em algun log selecionado. E em seguida calcular o quanto se eliminou em termos de linhas em relação ao dado original.
 
 
 ```python
@@ -766,7 +764,7 @@ print("REDUÇÃO DO DADO EM %.3f"% A)
 
 ### Statistics
 
-Run describe command to see data statistics. This can be helpful to see the data range and outliers.
+O comando **describe** é muito útil para observar a estatística do dado. 
 
 
 ```python
@@ -1068,12 +1066,3 @@ plt.savefig('boxplot_rhob_com_outliers.png', transparent = True)
 ![png](/assets/img/boxplot_rhob_com_outliers.png)
 
 
-
-```python
-
-```
-
-
-```python
-
-```
