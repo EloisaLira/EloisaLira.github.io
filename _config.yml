@@ -14,7 +14,7 @@ author: Eloísa M. de Lira
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://github.com/EloisaLira/eloisalira.github.io/blob/master/aboutme.md"
+  About Me: "aboutme"
   Portifolio: "https://github.com/EloisaLira/eloisalira.github.io/tree/master/_posts"
   Studies:  "https://github.com/EloisaLira/eloisalira.github.io/tree/master/_studies"
   Resources:
