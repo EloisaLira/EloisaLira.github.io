@@ -53,7 +53,7 @@ Se você ficou curioso, indico consultar o [Índice de Digitalidade da Economia 
 
 Fontes :
 
-[https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm] (https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm)
+[https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm](https://www.schooleducationgateway.eu/pt/pub/viewpoints/experts/riina_vuorikari_-_becoming_dig.htm)
 
 [https://www.iberdrola.com/inovacao/competencias-digitais](https://www.iberdrola.com/inovacao/competencias-digitais)
 
