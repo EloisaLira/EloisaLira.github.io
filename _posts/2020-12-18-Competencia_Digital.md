@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Você é digitalmente competente?
-thumbnail-img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthriveglobal.com%2Fstories%2Findicators-self-doubt-holding-you-back%2F&psig=AOvVaw3mvm2u9iaibSMiRttObFp_&ust=1608404275176000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMje6IKb2O0CFQAAAAAdAAAAABAD"
+thumbnail-img: "https://content.thriveglobal.com/wp-content/uploads/2019/02/3-Signs-That-Self-Doubt-is-Getting-in-Your-Way-.jpg?w=1550"
 cover-img: /assets/img/coding-dojo.gif
 gh-repo: EloisaLira/eloisalira.github.io
 gh-badge: [star, fork, follow]
