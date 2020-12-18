@@ -7,9 +7,6 @@ tags: [portifolio]
 comments: true
 ---
 
-```python
-
-```
 
 Gostaria de compartilhar uma prática simples mas, de grande valia na rotina de caracterização de reservatórios óleo e gás.
 
@@ -46,7 +43,7 @@ print("installed")
 
 
 ```python
-Input_path="/home/familia/Documents/Pioneer_Field_LAS/Untitled Folder/OtwayBasin/*.las"
+Input_path="/home/ ....  /OtwayBasin/*.las"
 import glob
 my_list=[glob.glob(Input_path)]
 print("Número de poços carregados",len(my_list[0])) #>>> para exibir o numero de pocos carregados
