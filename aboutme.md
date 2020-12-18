@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About me
+cover-img: /assets/img/avatar.jpg
+thumbnail-img: /assets/img/avatar.png
+share-img: /assets/img/avatar.jpg
 subtitle: A Geologist on an insane journey!!!!
 ---
 
