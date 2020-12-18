@@ -1014,7 +1014,7 @@ plt.savefig('boxplot_dtp_com_outliers.png', transparent = True)
 ```
 
 
-![png](https://github.com/EloisaLira/eloisalira.github.io/blob/master/assets/img/boxplot_dtp_com_outliers.png)
+![png](/assets/img/boxplot_dtp_com_outliers.png)
 
 
 
@@ -1034,7 +1034,7 @@ plt.savefig('boxplot_gr_com_outliers.png', transparent = True)
 ```
 
 
-![png](https://github.com/EloisaLira/eloisalira.github.io/blob/master/assets/img/boxplot_gr_com_outliers.png)
+![png](/assets/img/boxplot_gr_com_outliers.png)
 
 
 
@@ -1053,7 +1053,7 @@ plt.savefig('boxplot_nphi_com_outliers.png', transparent = True)
 ```
 
 
-![png](https://github.com/EloisaLira/eloisalira.github.io/blob/master/assets/img/boxplot_nphi_com_outliers.png)
+![png](/assets/img/boxplot_nphi_com_outliers.png)
 
 
 
@@ -1072,7 +1072,7 @@ plt.savefig('boxplot_rhob_com_outliers.png', transparent = True)
 ```
 
 
-![png](https://github.com/EloisaLira/eloisalira.github.io/blob/master/assets/img/boxplot_rhob_com_outliers.png)
+![png](/assets/img/boxplot_rhob_com_outliers.png)
 
 
 
