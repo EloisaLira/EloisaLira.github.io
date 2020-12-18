@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gráfico de Barras Express
-subtitle: Programando do zero sem o uso do Excel
+subtitle: Adeus Excel!
 cover-img:  /assets/img/cod_barras_express.gif
 thumbnail-img: /assets/img/cod_barras_express.gif
 share-img:  /assets/img/cod_barras_express.gif
