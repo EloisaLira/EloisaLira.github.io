@@ -8,19 +8,12 @@ tags: [portifolio]
 comments: true
 ---
 
-
 Gostaria de compartilhar uma prática simples mas, de grande valia na rotina de caracterização de reservatórios óleo e gás.
-
 É corriqueira a realização de algumas etapas na caracterização desses reservatórios a partir de dados sísmicos e de logs de poços. 
-
 Porém, esses produtos são amparados na informação de dados de poços. Essa informação é o que chamamos de *dado hard* é a informação mais fidedigna a respeito de uma litologia.
-
 Para que a os estudos de reservatório tenha sucesso é, fundamental garantir uma boa qualidade de seus inputs. É aí que entra a aplicação do conceito de *outliers*.
-
 Muitas vezes os perfis de poços carregam valores espúrios oriundos da coleta por isso tão importante tratá-los. Aqui fiz uma aplicação simples que se faz importante na petrofísica, geologia e geofísica mas que podemos extender para inúmeros casos na rotina de trabalho.
-
 Vou mostrar como carregar perfis no formato las e construir essa análise de outliers na forma gráfica de *boxplots*. Para tal, será usada a linguagem Python.
-
 Os dados de input  foram dados open source do Campo de Otway na Austrália.
 
 ### Instalação de Bibliotecas
