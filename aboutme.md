@@ -2,7 +2,9 @@
 layout: page
 title: About me
 subtitle: A Geologist on an insane journey!!!!
-cover-img: /assets/img/avatar.png
+cover-img: /assets/img/avatar.jpg
+thumbnail-img: /assets/img/avatar.png
+share-img: /assets/img/avatar.jpg
 ---
 
 
