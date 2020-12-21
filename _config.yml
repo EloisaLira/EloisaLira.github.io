@@ -15,8 +15,8 @@ author: Eloísa M. de Lira
 
 navbar-links:
   About Me: "aboutme"
-  Portifolio: "/_posts"
-  Studies:  "/_studies"
+  Portifolio: "projetos"
+  Studies:  "studies"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
