@@ -10,6 +10,8 @@ tags: [transformação digital, mindset, inovação]
 comments: true
 ---
 
+This assigmnet is destinated to conclude the IBM Advanced Data Science Specialization. All these informations came from free datasets referenced bellow. THIS RESERCH HAVE ONLY EDUCATIONAL PURPOSE.
+
 Instaling the libraries.
 
 ```python
