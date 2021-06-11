@@ -21839,7 +21839,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_65_0.png)
+![png65](/assets/img/output_65_0.png)
 
 
 
@@ -21852,7 +21852,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_66_0.png)
+![png66](/assets/img/output_66_0.png)
 
 
 
@@ -21875,15 +21875,15 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_67_0.png)
+![png-67](/assets/img/output_67_0.png)
 
 
 
-![png](/assets/img/output_67_1.png)
+![png-67-1](/assets/img/output_67_1.png)
 
 
 
-![png](/assets/img/output_67_2.png)
+![png67-2](/assets/img/output_67_2.png)
 
 
 ### Resultados da Normalização
@@ -22340,7 +22340,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_84_0.png)
+![output84](/assets/img/output_84_0.png)
 
 
 ### Machine Learning Implementation
@@ -22697,7 +22697,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_109_0.png)
+![output109](/assets/img/output_109_0.png)
 
 
 
@@ -22877,7 +22877,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_119_0.png)
+![output119](/assets/img/output_119_0.png)
 
 
 
@@ -23282,7 +23282,7 @@ plt.savefig('vel_test_pred_stacked.png')
 ```
 
 
-![png](/assets/img/output_126_0.png)
+![poutput126](/assets/img/output_126_0.png)
 
 
 
@@ -24623,7 +24623,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_156_0.png)
+![output156](/assets/img/output_156_0.png)
 
 
 **A plot of accuracy on the training and validation datasets over training epochs.**
@@ -24644,7 +24644,7 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_158_0.png)
+![output158](/assets/img/output_158_0.png)
 
 
 **A plot of loss on the training and validation datasets over training epochs.**
@@ -24728,11 +24728,11 @@ plt.show()
 ```
 
 
-![png](/assets/img/output_166_0.png)
+![output166-0](/assets/img/output_166_0.png)
 
 
 
-![png](/assets/img/output_166_1.png)
+![output166-1](/assets/img/output_166_1.png)
 
 
 ## Finally
