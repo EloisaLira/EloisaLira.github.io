@@ -1,6 +1,12 @@
-# My Capstone Project 01
-## Segmenting and Clustering Neighborhoods in Toronto
-### Author Eloisa M. de Lira
+---
+layout: post
+title: Project: Segmenting and Clustering Neighborhoods in Toronto
+subtitle: Part of my Coursera Capstone Project in Data Science Specialization
+thumbnail-img: /assets/img/toronto_neighbor.jpeg
+gh-badge: [star, fork, follow]
+tags: [portifolio, outliers, machine learning, visualização, dados, folium, python]
+comments: true
+---
 
 
 ```python
