@@ -9,8 +9,8 @@ tags: [books, test]
 ---
 
 
-Well logs predictor
+![Well logs predictor](https://eloisalira.github.io/2020-07-20-Projeto_Otway_Basin_DNN_ML/)
 
-knn para couresra
+![KNN para Coursera](https://eloisalira.github.io/2020-03-05-KNN_DT_SC_especialization/)
 
 well logs predictor com stacking
