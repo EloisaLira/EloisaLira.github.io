@@ -2,8 +2,8 @@
 layout: post
 title: Segmenting and Clustering Neighborhoods in Toronto
 subtitle: Part2 of my Coursera Capstone Project in Data Science Specialization
-thumbnail-img:  /assets/img/toronto_neighbor.jpeg
-cover-img:  /assets/img/toronto_neighbor.jpeg
+thumbnail-img: "https://www.toronto.ca/wp-content/uploads/2017/10/8f13-WellbeingToronto-750x338.png"
+cover-img: "https://m.media-amazon.com/images/I/81iy1sEayvL._AC_SL1494_.jpg"
 gh-repo: EloisaLira/eloisalira.github.io
 gh-badge: [star, fork, follow]
 tags: [transformação digital, mindset, inovação]
