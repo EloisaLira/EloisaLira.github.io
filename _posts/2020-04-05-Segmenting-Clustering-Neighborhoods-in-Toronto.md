@@ -1,7 +1,16 @@
-# My Capstone Project 02
-## Segmenting and Clustering Neighborhoods in Toronto
-### Author Eloisa M. de Lira¶
+---
+layout: post
+title: Segmenting and Clustering Neighborhoods in Toronto
+subtitle: Part2 of my Coursera Capstone Project in Data Science Specialization
+thumbnail-img:  /assets/img/toronto_neighbor.jpeg
+cover-img:  /assets/img/toronto_neighbor.jpeg
+gh-repo: EloisaLira/eloisalira.github.io
+gh-badge: [star, fork, follow]
+tags: [transformação digital, mindset, inovação]
+comments: true
+---
 
+Instaling the libraries.
 
 ```python
 pip install geocoder
@@ -71,22 +80,6 @@ postal_code.head()
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -152,23 +145,6 @@ canada_neighborhood.head()
     Data downloaded!
 
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -229,22 +205,6 @@ canada_merged.drop('Postal Code',axis=1)
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1085,11 +1045,3 @@ canada_merged.drop('Postal Code',axis=1)
 </table>
 </div>
 
-
-
-
-
-
-```python
-
-```
