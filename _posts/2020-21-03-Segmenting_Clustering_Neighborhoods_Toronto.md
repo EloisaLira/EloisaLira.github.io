@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project: Segmenting and Clustering Neighborhoods in Toronto
+title: Segmenting and Clustering Neighborhoods in Toronto
 subtitle: Part of my Coursera Capstone Project in Data Science Specialization
 cover-img:  /assets/img/toronto_neighbor.jpeg
 thumbnail-img: /assets/img/australia-01.jpg
