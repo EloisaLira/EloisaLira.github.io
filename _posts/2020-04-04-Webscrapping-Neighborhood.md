@@ -70,23 +70,6 @@ neighborhood_row=pd.DataFrame(df[0])
 neighborhood_row
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1206,23 +1189,6 @@ canada_neighborhood
 
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1853,8 +1819,6 @@ canada_neighborhood
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 ``
@@ -1867,24 +1831,6 @@ canada_neighborhood[canada_neighborhood['Postal code'] == 'M5A']
 
 #but there are more itens to be replaced let's see how it goes
 ```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1906,8 +1852,6 @@ canada_neighborhood[canada_neighborhood['Postal code'] == 'M5A']
 </div>
 
 
-
-
 ```python
 #Removing the slash from the 'Neighborhood'column to replace by comma
 
@@ -1915,23 +1859,6 @@ canada_neighborhood['Neighborhood']= canada_neighborhood.Neighborhood.str.replac
 canada_neighborhood
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2575,22 +2502,6 @@ canada_neighborhood.replace(canada_neighborhood['Neighborhood']== 'NaN', canada_
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3221,8 +3132,6 @@ canada_neighborhood.replace(canada_neighborhood['Neighborhood']== 'NaN', canada_
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 ``In the last cell of your notebook, use the .shape method to print the number of rows of your dataframe.``
@@ -3241,27 +3150,8 @@ print('The dataframe has now {} boroughs and {} neighborhoods.'.format(
 
 
 
-```python
-180-103
-```
-
-
-
-
-    77
-
 
 
 ``  Conclusion: 
 After all the activity I conclude that our data frame has actually 103 neighborhoods. In other words 77 itens was treated as outliers. Even more there was decreased in 1 Borough.``
-
-
-
-```python
-
-```
-
-
-```python
-
 ```
