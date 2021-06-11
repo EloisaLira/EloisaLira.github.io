@@ -1,12 +1,15 @@
-    ---
-    layout: post
-    title: Project: Segmenting and Clustering Neighborhoods in Toronto
-    subtitle: Part of my Coursera Capstone Project in Data Science Specialization
-    cover-img:  /assets/img/toronto_neighbor.jpeg
-    thumbnail-img: /assets/img/australia-01.jpg
-    share-img:  /assets/img/toronto_neighbor.jpeg
-    tags: [DIY, graph,Data Science, Mine, Iron]
-    ---
+---
+layout: post
+title: Project: Segmenting and Clustering Neighborhoods in Toronto
+subtitle: Part of my Coursera Capstone Project in Data Science Specialization
+cover-img:  /assets/img/toronto_neighbor.jpeg
+thumbnail-img: /assets/img/australia-01.jpg
+share-img:  /assets/img/toronto_neighbor.jpeg
+gh-repo: EloisaLira/eloisalira.github.io
+gh-badge: [star, fork, follow]
+tags: [DIY, graph,Data Science, Mine, Iron]
+comments: true
+---
 
 
 ```python
@@ -72,8 +75,7 @@ neighborhood_row
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
+    {
         vertical-align: middle;
     }
 
@@ -1208,7 +1210,6 @@ canada_neighborhood
 
 
 <div>
-<style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1220,7 +1221,7 @@ canada_neighborhood
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1870,7 +1871,6 @@ canada_neighborhood[canada_neighborhood['Postal code'] == 'M5A']
 
 
 <div>
-<style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1882,7 +1882,7 @@ canada_neighborhood[canada_neighborhood['Postal code'] == 'M5A']
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1901,7 +1901,7 @@ canada_neighborhood[canada_neighborhood['Postal code'] == 'M5A']
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -1917,7 +1917,7 @@ canada_neighborhood
 
 
 <div>
-<style scoped>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
