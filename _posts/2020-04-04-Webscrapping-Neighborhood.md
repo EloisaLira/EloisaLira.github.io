@@ -2,8 +2,8 @@
 layout: post
 title: Segmenting and Clustering Neighborhoods in Toronto
 subtitle: Part of my Coursera Capstone Project in Data Science Specialization
-thumbnail-img: /assets/img/toronto_neighbor.jpeg
-cover-img: /assets/img/toronto_neighbor.jpeg
+thumbnail-img:"https://justo.ca/blog/wp-content/uploads/2019/11/AdobeStock_197679483.jpeg"
+cover-img: "https://i.pinimg.com/originals/5d/b9/0b/5db90bd7093d57d3e338a73e2f9cfb16.jpg"
 gh-repo: EloisaLira/eloisalira.github.io
 gh-badge: [star, fork, follow]
 tags: [portifolio, outliers, machine learning, visualização, dados, folium, python]
