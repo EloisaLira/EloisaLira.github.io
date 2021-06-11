@@ -11,6 +11,6 @@ share-img: /assets/img/avatar.jpg
 ### My story
 Hi, I'm Eloísa. Geologist by training, Geophysics by chance, and Data Scientist in training. Trying to unravel the Geosciences through the data. Know my steps.
 
-UPDATE! Future Software Engineer :*
+UPDATE! Future Software Engineer 💟 👩‍🎓
 
 ---
